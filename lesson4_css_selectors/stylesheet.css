@@ -1,0 +1,51 @@
+*   {
+    margin: 5px;
+    padding: 5px;
+}
+
+h2 {
+    background-color: blueviolet;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.fontsize-40 {
+    font-size: 40px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bg-img {
+    background-image: url("https://cdn140.picsart.com/245475461009202.jpg?r1024x1024");
+}
+
+#border {
+    border: 3px solid #747747;
+}
+
+[attribute1="attrib1"]  {
+    background-color: darkmagenta;
+    color: green;
+}
+
+div div p {
+    background: #000;
+    color: aliceblue;
+}
+
+tr td {
+    background: gold;
+    color: darkmagenta;
+}
+
+strong > span {
+    color: yellow;
+}
+
+div > p > strong {
+    background-color: red;
+}
